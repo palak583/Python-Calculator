@@ -7,7 +7,7 @@ My first python project
 ## Technologies used 
 
 - Python
-- 
+  
 ## Contribution 
 
 If you like this project don't forget to star the repository!
