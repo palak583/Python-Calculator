@@ -1,9 +1,14 @@
 My first python project 
-Features :
-Addition 
-Subtraction
-Multiplication
-Division
+ ## Features :
+ - Addition 
+ - Subtraction
+ - Multiplication
+ - Division
+## Technologies used 
 
-Made by Palak 
+- Python
+- 
+## Contribution 
+
+If you like this project don't forget to star the repository!
 
